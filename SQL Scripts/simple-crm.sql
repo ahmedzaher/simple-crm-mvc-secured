@@ -40,3 +40,13 @@ INSERT INTO `authorities` VALUES('manager1','ROLE_EMPLOYEE');
 INSERT INTO `authorities` VALUES('manager1','ROLE_MANAGER');
 INSERT INTO `authorities` VALUES('admin','ROLE_EMPLOYEE');
 INSERT INTO `authorities` VALUES('admin','ROLE_ADMIN');
+
+
+
+
+INSERT INTO `customer` VALUES 
+	(0,'David','Adams','david@luv2code.com'),
+	(0,'John','Doe','john@luv2code.com'),
+	(0,'Ajay','Rao','ajay@luv2code.com'),
+	(0,'Mary','Public','mary@luv2code.com'),
+	(0,'Maxwell','Dixon','max@luv2code.com');
